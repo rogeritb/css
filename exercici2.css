@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
