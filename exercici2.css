@@ -1,29 +1,32 @@
+/* Estils generals */
 body {
     font-family: Verdana, sans-serif;
     font-size: 20px;
 }
 
-.aqua {
+/* Estils de fons */
+.fons-aqua {
     background-color: aqua;
 }
 
-.silver {
+.fons-plata {
     background-color: silver;
 }
 
-.center {
+/* Estils de paràgrafs */
+.centrat {
     text-align: center;
 }
 
-.right {
+.dreta {
     text-align: right;
 }
 
-.blue {
-    color: blue;
-}
-
-.red {
+/* Estils del text */
+.vermell {
     color: red;
 }
 
+.blau {
+    color: blue;
+}
